@@ -25,9 +25,9 @@ const biographyData = {
       "phone": "+251-11-155-2020"
     },
     "images": {
-      "profilePhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Abiy_Ahmed_2020.jpg/440px-Abiy_Ahmed_2020.jpg",
-      "officialPortrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Abiy_Ahmed_Ali_-_2019_%2848838039737%29_%28cropped%29.jpg/440px-Abiy_Ahmed_Ali_-_2019_%2848838039737%29_%28cropped%29.jpg",
-      "nobelPrize": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Abiy_Ahmed_2019_TGNT.jpg/440px-Abiy_Ahmed_2019_TGNT.jpg"
+      "profilePhoto": "https://www.caasimada.net/wp-content/uploads/2025/06/Abiy-Ahmed-2048x1438.jpg",
+      "officialPortrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_%28cropped%29.jpg/500px-Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_%28cropped%29.jpg",
+      "nobelPrize": "https://ethiopia.un.org/sites/default/files/styles/hero_header_2xl_1x/public/2019-12/pm_abiy_ahmed_recieving_the_nobel_peace_prize.jpg?itok=CzltgpVm"
     },
     "biography": {
       "summary": "Abiy Ahmed Ali is an Ethiopian politician who has served as the 4th Prime Minister of Ethiopia since April 2, 2018. He was awarded the Nobel Peace Prize in 2019 for his efforts to achieve peace and international cooperation, particularly for his decisive initiative to resolve the border conflict with neighboring Eritrea.",
